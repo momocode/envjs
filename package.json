@@ -1,0 +1,7 @@
+{
+  "name": "@momocode/env",
+  "description": "Handy env function that handles missing environment variables",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
